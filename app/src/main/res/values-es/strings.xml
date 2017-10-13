@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PaletteActivity</string>
+    <string-array name="gridLabels">
+        <item>Blanco</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Cian</item>
+        <item>Fuschia</item>
+        <item>Negro</item>
+        <item>Gris</item>
+        <item>Naranja</item>
+    </string-array>
+    <string-array name="gridColors">
+        <item>#ffffff</item>
+        <item>#ff0000</item>
+        <item>#ffff00</item>
+        <item>#008000</item>
+        <item>#0000FF</item>
+        <item>#00FFFF</item>
+        <item>#FF00FF</item>
+        <item>#000000</item>
+        <item>#808080</item>
+        <item>#FFA500</item>
+    </string-array>
+</resources>
